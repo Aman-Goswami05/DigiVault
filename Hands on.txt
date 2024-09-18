@@ -1,0 +1,11 @@
+Connected account with metamask
+Decentralized application
+Uploaded on Pinata
+Sign the transaction on metamask wallet and check getdata wallet
+Data is uploaded on pinata gateway
+Give access of gdrive to any other address.
+
+Pinata is a service allows user to store, manage and distribute files on the IPFS network.
+IPFS is a distributed peer-to-peer file system that allows to store, share and access files in a decentralized network.
+IPFS
+
